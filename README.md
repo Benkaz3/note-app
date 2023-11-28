@@ -5,6 +5,7 @@ This is a simple note-taking app written in React + Vite. It allows users to cre
 - Create new notes
 - Edit existing notes
 - Delete notes
+- Markdown
 
 ## Installation
 
