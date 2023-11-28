@@ -1,4 +1,4 @@
-This is a simple note-taking app written in React + Vite. It allows users to create, edit, and delete notes. The app provides a user-friendly interface for managing and organizing notes effectively.
+This is a simple note-taking app written in React + Vite. It allows users to create, edit, and delete notes. The app provides markdown syntax and preview of notes.
 
 ## Features
 
@@ -32,6 +32,5 @@ This project is licensed under the [MIT License](http://opensource.org/licenses/
 ## Acknowledgements
 
 - React: [https://reactjs.org](https://reactjs.org/)
-- React Router: [https://reactrouter.com](https://reactrouter.com/)
 - Srcimba: [https://scrimba.com](https://scrimba.com/)
  
